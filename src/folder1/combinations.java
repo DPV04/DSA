@@ -17,7 +17,7 @@ public class combinations {
 
     public static void combination(int k , int n){
 
-        comb(2,4,1);
+        comb(3,4,1);
 
     }
 

@@ -49,7 +49,7 @@ public class palindrome {
 
         l1.add(String.valueOf(s.charAt(index)));
 
-        checkplaindrome(s,index);
+        checkplaindrome(s,index+1);
 
         l1.remove(String.valueOf(s.charAt(index)));
 
